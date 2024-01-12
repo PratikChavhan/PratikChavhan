@@ -50,17 +50,17 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikChavhan&theme=synthwave" alt="Pratik Chavhan" /></p>
 ## Contribution Graph 
 
-[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hrishinikam1729&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/Hrishinikam1729/github-readme-activity-graph) 
+[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hrishinikam1729&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
 
  <div align="center">
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishinikam1729&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikChavhan&theme=github_dark">
  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hrishinikam1729&theme=github_dark">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hrishinikam1729&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikChavhan&theme=github_dark">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikChavhan&theme=github_dark">
  
 <div/>
 
