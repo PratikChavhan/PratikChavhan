@@ -3,12 +3,12 @@
 <h3 align="center">Full Stack Developer | Ready to Contribute and Learn</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PratikChavhan&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik Chavhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PratikChavhan&theme=onedark" alt="Pratik Chavhan" /></a> </p>
+<p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PratikChavhan&theme=onedark" alt="Pratik Chavhan" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/pratikchavhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Pratik Chavhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="justify">
 <a href="https://linkedin.com/in/pratikchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pratikchavhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/pratik_chavhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="pratik_chavhan_1" height="30" width="40" /></a><a href="https://www.leetcode.com/user5631Pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user5631Pk" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/user/pratikchavhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="user/pratikchavhan77" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,13 +44,14 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavhan&show_icons=true&locale=en&theme=synthwave" alt="Pratik Chavhan" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikChavhan&theme=synthwave" alt="Pratik Chavhan" /></p>
+
 ## Contribution Graph 
 
-[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hrishinikam1729&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
+[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PratikChavhan&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
