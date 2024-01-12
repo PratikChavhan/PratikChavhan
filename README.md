@@ -49,19 +49,4 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikChavhan&theme=synthwave" alt="Pratik Chavhan" /></p>
 
-## Contribution Graph 
-
-[![Pratik's github activity graph]
-(https://github.com/PratikChavhan/github-readme-activity-graph) 
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-</br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
-
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
