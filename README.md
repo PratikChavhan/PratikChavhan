@@ -51,7 +51,8 @@
 
 ## Contribution Graph 
 
-[![Pratik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PratikChavhan&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
+[![Pratik's github activity graph]
+(https://github.com/PratikChavhan/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
