@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/pratikchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pratikchavhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/pratik_chavhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="pratik_chavhan_1" height="30" width="40" /></a><a href="https://www.leetcode.com/user5631Pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user5631Pk" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/user/pratikchavhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="user/pratikchavhan77" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
@@ -44,14 +44,14 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="center">Stars</h3>
+<h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavhan&show_icons=true&locale=en&theme=synthwave" alt="Pratik Chavhan" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikChavhan&theme=synthwave" alt="Pratik Chavhan" /></p>
 
 ## Contribution Graph 
 
-[![Hrishi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PratikChavhan&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
+[![Pratik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PratikChavhan&bg_color=000000&color=ffffff&line=00ff55&point=ffffff&area=true&hide_border=true)](https://github.com/PratikChavhan/github-readme-activity-graph) 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 </div>
@@ -66,36 +66,6 @@
 <div/>
 
  <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
-<!------------------- Languages used by me ----------------------->
-<div align="center">
- 
- ## Programming Languages used 
-
-<a href="https://www.java.com/">
- <img border="0" alt="Java" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png"/>
- </a>
-
- <a href="https://www.cplusplus.com/">
- <img border="0" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
- </a>
-
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
- <img border="0" alt="C Sharp" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
- </a>
-
- <a href="https://html.com/#What_is_HTML">
- <img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
- </a>
-
- <a href="https://en.wikipedia.org/wiki/CSS">
- <img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
- </a>
-
- <a href="https://www.javascript.com/">
- <img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
- </a>
-</div>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
