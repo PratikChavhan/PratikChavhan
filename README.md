@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" ><path fill="#0099ff" fill-opacity="1" d="M0,160L1440,288L1440,0L0,0Z"></path><text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="white" font-weight="bold" font-size="110">
-    Welcome to my Profile !!!
-  </text></svg>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <!-- Intro  -->
 <h1 align="center">Hi 👋, I'm Pratik Chavhan</h1>
@@ -243,4 +241,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PratikChavhan&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,192L1440,64L1440,320L0,320Z"></path></svg>
+<img src="https://github.com/Trilokia/Trilokia/blob/main/bottom_header.svg"></img>
